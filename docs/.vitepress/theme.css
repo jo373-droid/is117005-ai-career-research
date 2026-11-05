@@ -1,0 +1,15 @@
+:root {
+  --vp-c-brand-1: #216b59;
+  --vp-c-brand-2: #1a5849;
+  --vp-c-brand-3: #14483c;
+  --vp-c-brand-soft: rgba(33, 107, 89, 0.12);
+  --vp-font-family-base: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+.dark {
+  --vp-c-brand-1: #73c7a8;
+  --vp-c-brand-2: #8dd6b8;
+  --vp-c-brand-3: #a7e5c9;
+  --vp-c-brand-soft: rgba(115, 199, 168, 0.14);
+}
+.VPHomeHero .name { letter-spacing: -0.045em; }
+.VPFeature { border-radius: 16px; }
