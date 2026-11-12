@@ -13,7 +13,12 @@ export default defineConfig({
       { text: 'About', link: '/about' }
     ],
     sidebar: [
-      { text: 'Start Here', items: [{ text: 'Research overview', link: '/research/' }, { text: 'NY / NJ job market snapshot', link: '/research/job-market-snapshot' }, { text: 'About this project', link: '/about' }] },
+      { text: 'Start Here', items: [
+        { text: 'Research overview', link: '/research/' },
+        { text: 'Career role comparison', link: '/research/career-role-comparison' },
+        { text: 'NY / NJ job market snapshot', link: '/research/job-market-snapshot' },
+        { text: 'About this project', link: '/about' }
+      ] },
       { text: 'Career Profiles', items: [
         { text: 'AI / ML Specialist', link: '/careers/ai-ml-specialist' },
         { text: 'Data Scientist', link: '/careers/data-scientist' },
