@@ -30,15 +30,13 @@ Both descriptions connect AI work to software and real-world workflows. AmEx giv
 
 **Assumptions to test:** A public portfolio demonstrating one small AI-enabled workflow, its evaluation, and clear limits may help a student show relevant skills. The postings do not say that a portfolio is required or guarantees an interview.
 
-## Proposed portfolio feature and check
+## Proposed portfolio feature
 
 **Decision:** Add a research-to-role comparison card that separates employer-stated tasks and eligibility from student interpretation, and visibly records source date, deadline wording, and availability-check status. This makes the evidence inspectable and prevents missing information from appearing as fact.
 
 **Why this feature follows from the evidence:** AmEx explicitly names documentation, evaluation, governance, and reliability; Palantir names agent interfaces, permissions, and evaluations. Both make it useful to show a small project with a test and stated limitation. Because Palantir's qualifications and active application state could not be confirmed through the reader, the card must label those fields “unverified,” not fill them with assumptions.
 
-**Planned check (not an observed result):** Ask a peer to open each original source, trace one quoted or paraphrased task into the comparison and proposed feature, and confirm that missing deadline/eligibility information is labeled accurately. Record the review, decision, documentation commit, verification, and reviewer retry in the relevant GitHub issue before resolving it. No peer check has been completed yet.
-
-**Reviewer request:** Please open the American Express source and trace its evaluation/documentation finding into the proposed portfolio feature and planned check above. Also flag any source detail that is unclear or out of date.
+**Reviewer request:** Please open the American Express source and trace its evaluation/documentation finding into the proposed portfolio feature. Tell me what evidence or check would help confirm that the feature represents the source accurately. Also flag any source detail that is unclear or out of date.
 
 ## AI assistance
 
